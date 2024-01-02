@@ -1,3 +1,6 @@
-# amFOSS tasks 2023
 
-This is the repository for amFOSS Praveshan tasks 2023. It contains further information, the required template code and assets for your tasks. Clone the repo and copy the necessary contents required to the specific task directories of your amfoss-tasks repository.
+
+# Install Ubuntu 22.04.3 
+
+
+I had already did duel booting 1 week before when i got my new laptop and i already have experience in duel booting , so it was very easy for me
