@@ -1,1 +1,2 @@
-Install Ubuntu 22.10[Desktop]
+Install Ubuntu 22.04.3 
+I had already did duel booting 1 week before when i got my new laptop
