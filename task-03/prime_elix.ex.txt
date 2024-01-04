@@ -1,0 +1,20 @@
+defmodule Prime do
+  def is_prime(n) do
+    if n <= 1 do
+      false
+    else
+      Enum.all?(2..(n-1), fn i -> rem(n, i) != 0 end)
+    end
+  end
+
+  def print_prime(n) do
+    for i <- 2..n do
+      if is_prime(i) do
+        IO.write("#{i} ")
+      end
+    end
+  end
+end
+
+n = IO.gets("enter:") |> String.trim() |> String.to_integer()
+Prime.print_prime(n)
